@@ -1,0 +1,8 @@
+{
+  "name": "cruise-product-info",
+  "description": "获取特定邮轮产品的详细信息，了解产品的特点和服务，帮助决策。",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
