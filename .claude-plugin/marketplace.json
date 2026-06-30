@@ -1,0 +1,18 @@
+{
+  "name": "cruise-product-info-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "cruise-product-info 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cruise-product-info",
+      "source": "./plugins/cruise-product-info",
+      "description": "获取特定邮轮产品的详细信息，了解产品的特点和服务，帮助决策。",
+      "version": "0.1.0"
+    }
+  ]
+}
